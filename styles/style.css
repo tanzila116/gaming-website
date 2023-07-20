@@ -218,3 +218,54 @@ cursor: pointer;
 color:#FF42A5;
 border: 2px solid #F948B2 ;
 }
+/*footer section styles*/
+.footer{
+    background: #0B0223;
+    align-items: center;
+    margin-top: 50px;
+    padding: 60px 20px 60px 20px;
+}
+.footer-title{
+    display: flex;
+    align-items: center;
+    width: 65%;
+    margin: 30px 500px 0px 600px;
+}
+.footer-title img{
+    object-fit: cover;
+   width: 75px;
+   height: 35px;
+   padding: 10px;
+}
+.footer-title p{
+    color: #FFF;
+font-size: 45px;
+font-weight: 700;
+}
+.footer-description{
+    display: flex;
+    gap: 20px;
+    color: #FFF;;
+font-size: 18px;
+font-weight: 600;
+margin: 0px 400px 20px 450px;
+}
+.social-media{
+    display: flex;
+    gap: 40px;
+    margin: 0px 500px 10px 500px;
+}
+.information{
+    display: flex;
+    gap: 30px;
+    color: rgba(255, 255, 255, 0.60);
+font-size: 16px;
+font-weight: 500;
+margin: 0px 400px 10px 450px;
+}
+.privacy{
+    color: rgba(255, 255, 255, 0.60);
+    font-size: 16px;
+    font-weight: 500; 
+    text-align: center;
+}
