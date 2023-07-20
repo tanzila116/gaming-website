@@ -223,13 +223,12 @@ border: 2px solid #F948B2 ;
     background: #0B0223;
     align-items: center;
     margin-top: 50px;
-    padding: 60px 20px 60px 20px;
+    padding: 20px 60px 20px 60px;
 }
 .footer-title{
     display: flex;
     align-items: center;
-    width: 65%;
-    margin: 30px 500px 0px 600px;
+    justify-content: center;
 }
 .footer-title img{
     object-fit: cover;
@@ -248,12 +247,12 @@ font-weight: 700;
     color: #FFF;;
 font-size: 18px;
 font-weight: 600;
-margin: 0px 400px 20px 450px;
+justify-content: center;
 }
 .social-media{
     display: flex;
     gap: 40px;
-    margin: 0px 500px 10px 500px;
+    justify-content: center;
 }
 .information{
     display: flex;
@@ -261,7 +260,7 @@ margin: 0px 400px 20px 450px;
     color: rgba(255, 255, 255, 0.60);
 font-size: 16px;
 font-weight: 500;
-margin: 0px 400px 10px 450px;
+justify-content: center;
 }
 .privacy{
     color: rgba(255, 255, 255, 0.60);
